@@ -20,21 +20,15 @@ The solution helps NexGen move from **reactive** to **predictive** operations, i
 
 ## 🧩 Project Structure
 
-nexgen_delivery_optimizer/
-├── data/
-│ ├── orders.csv
-│ ├── delivery_performance.csv
-│ ├── routes_distance.csv
-│ ├── vehicle_fleet.csv
-│ ├── cost_breakdown.csv
-│ └── customer_feedback.csv
-│
-├── app.py
-├── data_preprocessing.py
-├── model_training.py
-├── visuals.py
-├── requirements.txt
-└── README.md
+<img width="271" height="373" alt="Screenshot 2025-10-29 002233" src="https://github.com/user-attachments/assets/9c83315e-34f8-4a9b-9fa3-e99e8c5bd5fd" />
+
+
+
+
+
+
+
+
 
 
 
@@ -129,6 +123,12 @@ nexgen_delivery_optimizer/
 **Note:** The dataset provided for the challenge was limited (≈200 rows).  
 In real-world enterprise deployment with millions of records, the model would achieve significantly higher predictive accuracy due to richer feature diversity.
 
+## Some images of the app
+<img width="800" height="400" alt="Screenshot 1" src="https://github.com/user-attachments/assets/e2276278-4eb0-44e9-b55d-432d18c7e7b4" />
+<img width="800" height="400" alt="Screenshot 2" src="https://github.com/user-attachments/assets/19c7196b-c9c3-4e45-bbbd-4d4cf229a7c0" />
+<img width="800" height="400" alt="Screenshot 3" src="https://github.com/user-attachments/assets/cfe61122-01be-494e-8601-7c5927689ae7" />
+<img width="800" height="400" alt="Screenshot 4" src="https://github.com/user-attachments/assets/d337ace4-b8a2-4f47-aac3-0e6fcd913f41" />
+<img width="800" height="400" alt="Screenshot 5" src="https://github.com/user-attachments/assets/1fc7b02a-1cb7-42ef-9832-4379ec3fe2c1" />
 
 
 ##  How to Run
@@ -164,3 +164,4 @@ Author: Anushka Das
 📘 License
 
 This project is developed for academic and demonstration purposes under the Logistics Innovation Challenge guidelines.
+
